@@ -1,3 +1,4 @@
+#Resnet+BERT, resuls are not promising
 import torch
 import torch.nn as nn
 from torch.utils.data import Dataset, DataLoader
