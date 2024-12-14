@@ -1,3 +1,4 @@
+#VIT+BERT model
 import torch
 from torch.utils.data import Dataset, DataLoader
 from transformers import ViTImageProcessor, BertTokenizer, BertForSequenceClassification
